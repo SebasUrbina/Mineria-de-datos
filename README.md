@@ -1,5 +1,10 @@
 # Tareas curso Introducción a la Mineria de datos CC5206
 
+El presente repositorio contiene las tareas y mi resolución para el curso Introducción a la Mineria de datos del Departamento de Ciencias de la Computación de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile.
+
+Especial agradecimiento a los autores de las tareas y tutoriales: Felipe Bravo, Hernán Sarmiento, Aymé Arango, Alison Fernandez, Cinthia Mabel Sanchez, Juan Pablo Silva.
+
+
 ## [Tarea 1](https://htmlpreview.github.io/?https://github.com/SebasUrbina/MineriaDeDatos/blob/main/Tarea%201/Tarea_1.html) 
 
 - Objetivo: Comprender conceptos esenciales en minería de datos y realizar un análisis exploratorio de un conjunto de datos.
