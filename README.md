@@ -36,3 +36,9 @@ Especial agradecimiento a los autores de las tareas y tutoriales: Felipe Bravo, 
         - 1) k-Means
         - 2) Clustering Jerárquico Aglomerativo
     - Problema abierto: Usando la base de datos IMBD clasifique la puntuación de cada película
+    
+# Tutoriales
+
+- [Tutorial R](https://htmlpreview.github.io/?https://github.com/SebasUrbina/MineriaDeDatos/blob/main/Tutoriales/Tutorial%20R/Tutorial_R.html)
+- [Tutorial Clasificación](https://github.com/SebasUrbina/MineriaDeDatos/blob/main/Tutoriales/Tutorial%20Clasificacion%20Python/Tutorial%202%20Clasificaci%C3%B3n%20usando%20Python.ipynb)
+- [Tutorial Clustering](https://github.com/SebasUrbina/MineriaDeDatos/blob/main/Tutoriales/Tutorial%20Clustering%20Python/Tutorial_3_Clustering.ipynb)
