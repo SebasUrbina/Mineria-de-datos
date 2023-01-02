@@ -1,13 +1,14 @@
 # Tareas curso Introducción a la Mineria de datos CC5206
 
-## Tarea 1
+## [Tarea 1](https://htmlpreview.github.io/?https://github.com/SebasUrbina/MineriaDeDatos/blob/main/Tarea%201/Tarea_1.html) 
 
 - Objetivo: Comprender conceptos esenciales en minería de datos y realizar un análisis exploratorio de un conjunto de datos.
 
 - Estructura:
     - Preguntas teóricas
     - Análisis Exploratorio de los Datos (EDA)
-## Tarea 2
+    
+## [Tarea 2](https://htmlpreview.github.io/?https://github.com/SebasUrbina/MineriaDeDatos/blob/main/Tarea%202/Tarea_2.html)
 
 - Objetivo: Probar distintos algoritmos de clasificación.
 
@@ -20,8 +21,8 @@
   - Comparar clasificadores con ciertos baselines o clasificadores base.
   - Seleccionar hiperparámetros.
   - Trabajar con clases desbalanceadas.
-  
- ## Tarea 3
+
+## [Tarea 3](https://htmlpreview.github.io/?https://github.com/SebasUrbina/MineriaDeDatos/blob/main/Tarea%203/Tarea_3.html)
  
 - Objetivo: Probar distintos algoritmos de clustering.
 - Estructura:
